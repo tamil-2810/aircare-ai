@@ -1,0 +1,6 @@
+{
+  "name": "AirCare AI",
+  "description": "Personalized air-quality guidance platform translating AQI, health profile, and activities into clear actionable health advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
